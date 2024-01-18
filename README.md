@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @truthseeker108
 - 👀 I’m interested in network automation projects.
-- 🌱 I’m currently learning Python, Ansible
+- 🌱 I’m currently learning AWX, Golang
 - 💞️ I’m looking to collaborate on Ansible extensions.
 - 📫 How to reach me ...
 
